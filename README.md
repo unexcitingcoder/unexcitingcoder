@@ -1,1 +1,3 @@
-- 👴 My old account is here: https://github.com/JosephMoniz
+💻 Write code
+🧱 Stack legos
+🐉 Slay dragons
